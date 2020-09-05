@@ -4,7 +4,7 @@ In this assignment, I created a very simple interactive scheduler. To use it, th
 
 This assignment was created with JavaScript. I used "moment" in JavaScript to manipulate the dates and time.
 
-#live link: https://avatl.github.io/schedule-hw5/
+Live link: https://avatl.github.io/schedule-hw5/
 
 I am still learning how to add images to a markdown, I hope to know it for the next assignment. Until then:
 https://github.com/avatl/schedule-hw5/issues/1#issue-694152590
